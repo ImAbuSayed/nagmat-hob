@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا سحر الليالي يا نبض الغرام
+> في عينيك تاهت حروفي وكلام
+> خذني إليك وننسى الملام
+> يا نار الشوق برد وسلام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
